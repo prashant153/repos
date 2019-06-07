@@ -1,0 +1,5 @@
+C:\Users\prashant.kumar\source\repos\eManager\eManager.Domain\bin\Debug\eManager.Domain.dll
+C:\Users\prashant.kumar\source\repos\eManager\eManager.Domain\bin\Debug\eManager.Domain.pdb
+C:\Users\prashant.kumar\source\repos\eManager\eManager.Domain\obj\Debug\eManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\prashant.kumar\source\repos\eManager\eManager.Domain\obj\Debug\eManager.Domain.dll
+C:\Users\prashant.kumar\source\repos\eManager\eManager.Domain\obj\Debug\eManager.Domain.pdb
